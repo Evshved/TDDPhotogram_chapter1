@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'hamlit'
 gem 'rspec-rails', '~> 3.4'
 gem 'capybara'
 gem 'factory_girl_rails'
